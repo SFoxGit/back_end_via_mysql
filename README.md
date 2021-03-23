@@ -14,7 +14,7 @@ Shawn Fox
 ---
 ## Project Links:
   
-- Deployed site: [GitHub Pages]()
+- Deployed site: [Heroku](https://evening-beach-41114.herokuapp.com/)
   
 - GitHub: [sfoxgit](https://github.com/SFoxGit/back_end_via_mysql)
   
@@ -37,6 +37,8 @@ Shawn Fox
   
 ---
 ## Description
+
+This is a backend database interaction using mysql and sequelizer that will allow you to update your products, categories, and tags for items being sold online. Products can have many tags, and tags can have many products as well. This uses a through to connect products and tags so we can display all the information with get requests that are set up for you with simple commands. In the usage you will see how I set them up in postman. 
   
 ---
 ## Installation
