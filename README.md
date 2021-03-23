@@ -52,45 +52,47 @@ npm seed
 ---
 ## Usage
 
+npm start
+
 Get Categories
 
-![Get Categories](.assets/images/getCategories.gif)
+![Get Categories](./assets/images/getCategories.gif)
 
 Put Push Delete Categories
 
-![Put Push Delete Categories](.assets/images/ppdCategories.gif)
+![Put Push Delete Categories](./assets/images/ppdCategories.gif)
 
 Get Products
 
-![Get Products](.assets/images/getProducts.gif)
+![Get Products](./assets/images/getProducts.gif)
 
 Post Products
 
-![Post Products](.assets/images/postProducts.gif)
+![Post Products](./assets/images/postProducts.gif)
 
 Put Products
 
-![Put Products](.assets/images/putProducts.gif)
+![Put Products](./assets/images/putProducts.gif)
 
 Delete Products
 
-![Delete Products](.assets/images/delProducts.gif)
+![Delete Products](./assets/images/delProducts.gif)
 
 Get Tags
 
-![Get Tags](.assets/images/getTags.gif)
+![Get Tags](./assets/images/getTags.gif)
 
 Post Tags
 
-![Post Tags](.assets/images/postTags.gif)
+![Post Tags](./assets/images/postTags.gif)
 
 Put Tags
 
-![Put Tags](.assets/images/putTags.gif)
+![Put Tags](./assets/images/putTags.gif)
 
 Delete Tags
 
-![Delete Tags](.assets/images/delTag.gif)
+![Delete Tags](./assets/images/delTag.gif)
 
   
 ---
